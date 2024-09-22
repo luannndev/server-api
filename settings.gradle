@@ -1,2 +1,3 @@
 rootProject.name = 'server-api'
+include 'api-common'
 
