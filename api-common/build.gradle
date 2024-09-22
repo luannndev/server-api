@@ -1,4 +1,5 @@
 dependencies {
+    implementation "eu.koboo:en2do:$en2do"
 
     implementation 'org.bspfsystems:yamlconfiguration:2.0.2'
     implementation 'net.kyori:adventure-text-minimessage:4.17.0'
