@@ -1,0 +1,13 @@
+dependencies {
+
+    implementation 'org.bspfsystems:yamlconfiguration:2.0.2'
+    implementation 'net.kyori:adventure-text-minimessage:4.17.0'
+    implementation 'org.redisson:redisson:3.33.0'
+
+    compileOnly "org.projectlombok:lombok:1.18.30"
+    annotationProcessor "org.projectlombok:lombok:1.18.30"
+
+    // https://mvnrepository.com/artifact/com.google.api/api-common
+    implementation 'com.google.api:api-common:2.34.0'
+
+}
