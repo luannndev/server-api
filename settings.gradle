@@ -1,3 +1,4 @@
 rootProject.name = 'server-api'
 include 'api-common'
+include 'api-proxy'
 
